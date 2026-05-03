@@ -92,6 +92,7 @@ pip install requests pillow matplotlib scipy pandas openai zhipuai
 ## 输出示例
 
 - example.png
+- <img width="2510" height="8209" alt="example" src="https://github.com/user-attachments/assets/10bd9660-4859-44f4-afea-9a81c645620a" />
 
 ## openclaw支持
 
