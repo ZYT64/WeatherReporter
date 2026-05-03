@@ -87,6 +87,11 @@ python main.py Tokyo
 pip install requests pillow matplotlib scipy pandas openai zhipuai
 ```
 
+##依赖字体
+
+simhei.ttf
+- 若缺失需从github下载:https://github.com/ZYT64/WeatherReporter
+
 ## 输出
 
 生成 `output.png`，包含完整的天气简报图片。
