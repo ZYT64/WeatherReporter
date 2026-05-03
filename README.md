@@ -89,6 +89,14 @@ python main.py Shenzhen
 pip install requests pillow matplotlib scipy pandas openai zhipuai
 ```
 
+## 输出示例
+
+- example.png
+
+## openclaw支持
+
+- 可以作为openclaw的skill工作
+
 ## 注意事项
 
 - 天气数据来源：wttr.in
